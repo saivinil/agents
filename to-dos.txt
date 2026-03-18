@@ -1,0 +1,6 @@
+interesting-handson-exercises
+25th video at 7:50
+building day 27 from scratch
+
+interesting-tasks-to-work-on
+complete hugging-face virtual-version bug fixes.
